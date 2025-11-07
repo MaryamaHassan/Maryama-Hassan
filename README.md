@@ -36,7 +36,7 @@ Applied text cleaning, tokenisation, and sentiment classification using machine 
 
 #### ❤️ [Heart Disease Classification](https://github.com/MaryamaHassan/Heart-Disease-Classification)
 A predictive modelling project exploring medical data to identify heart disease risk factors.  
-Implemented data preprocessing, feature selection, and model evaluation using logistic regression and KNN.
+Implemented data preprocessing, feature selection, and model evaluation using logistic regression and Random Forest.
 
 
 ---
