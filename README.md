@@ -2,7 +2,7 @@
 
 🎓 Data Science graduate | 📊 Data Analyst 
 
-I’m passionate about uncovering meaningful insights from data and creating visual, evidence-based solutions.  
+Passionate about uncovering meaningful insights from data and creating visual, evidence-based solutions.  
 My work often combines statistical analysis, machine learning, and interactive visualisation to make data both informative and engaging.
 
 ---
